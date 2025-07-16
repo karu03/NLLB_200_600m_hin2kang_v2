@@ -35,6 +35,10 @@ result = translator("यह एक उदाहरण वाक्य है।"
 print(result[0]['translation_text'])
 
 ```
+## Dataset
+
+<https://www.kaggle.com/datasets/ikarun/hindi2kangri-v2>
+
 ## Training Details
 Dataset: 51,000 aligned Hindi-Kangri sentence pairs.
 
